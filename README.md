@@ -79,10 +79,10 @@ Before getting started, ensure the following dependencies are installed:
 ## 📂 Resources
 ### 📄 Jira Test Case File
 Download the Jira CSV file to review test cases:  
-- [📥 Download File](https://github.com/Youssefalimaher/depi_orangHRM/blob/master/test%20case.doc)
+- [📥 see it](https://github.com/Youssefalimaher/depi_orangHRM_automationTesting/blob/master/orangHRM_manualTesting.pdf)
 
 ### 📊 Test Summary Report
-- [📥 Download File](https://github.com/Youssefalimaher/depi_orangHRM_automationTesting/blob/master/Login_Test_Summary_Report.pdf)
+- [📥 see it](https://github.com/Youssefalimaher/depi_orangHRM_automationTesting/blob/master/Login_Test_Summary_Report.pdf)
 
 ### 🎥 Presentation
 Explore the comprehensive presentation on *Orange HRM Login Functionality Testing*:  

@@ -82,7 +82,7 @@ Download the Jira CSV file to review test cases:
 - [📥 Download File](https://github.com/Youssefalimaher/depi_orangHRM/blob/master/test%20case.doc)
 
 ### 📊 Test Summary Report
-The test summary report is currently not available. Check back soon for updates.
+- [📥 Download File]([https://github.com/Youssefalimaher/depi_orangHRM/blob/master/test%20case.doc](https://github.com/Youssefalimaher/depi_orangHRM_automationTesting/blob/master/Login_Test_Summary_Report.pdf))
 
 ### 🎥 Presentation
 Explore the comprehensive presentation on *Orange HRM Login Functionality Testing*:  
